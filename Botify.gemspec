@@ -6,11 +6,11 @@ require 'Botify/version'
 Gem::Specification.new do |spec|
   spec.name          = "Botify"
   spec.version       = Botify::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Johnnyshaun"]
+  spec.email         = ["khennouchethomas@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Botify is a bot for Facebook}
+  spec.description   = %q{Botify is an intelligent bot that can talk with you and give some interesting informations}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

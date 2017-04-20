@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in Botify.gemspec
 gemspec
+source 'https://rubygems.org'
+gem 'sinatra'
+gem 'facebook-messenger'
+gem 'httparty'
